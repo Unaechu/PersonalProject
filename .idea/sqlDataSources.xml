@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="2bef217c-ddfa-4dfc-8797-c8b4a73e4f12" name="facili.csv Mapping">
+      <data-sources db="76e305de-0f69-4111-a46b-30996d043d8b" ddl="485fe404-9d90-4766-823e-67a049d6a2b0" />
+      <scope>
+        <node kind="schema" qname="main" />
+      </scope>
+    </mapping>
+  </component>
+</project>
