@@ -14,7 +14,7 @@ def main():
         cursor.execute(q)
         row_funeral_details = cursor.fetchall()
 
-#       q = """SELECT * FROM funeral_info"""
+#       -q = """SELECT * FROM funeral_info"""
 #       row_funeral_infos = cursor.execute(q)
 
         sql = """
